@@ -115,5 +115,18 @@
     "tags": ["Suspense", "Psychological"],
     "publisher": "Riverhead Books",
     "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 10,
+    "bookName": "Sophie's World",
+    "author": "Jostein Gaarder",
+    "image": "https://i.ibb.co.com/chStJM7q/images.jpg",
+    "review": "'Sophie's World introduces 14-year-old Sophie Amundsen, who receives mysterious letters and a correspondence course in philosophy from a mysterious figure named Alberto Knox. These lessons delve into the history of philosophy, starting with pre-Socratics and moving through major thinkers like Plato and Sartre. The story also features postcards addressed to Hilde Møller Knag, which adds a layer of mystery and suggests a connection to a larger story",
+    "totalPages": 544,
+    "rating": 4.6,
+    "category": "Philosophy",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 1991
   }
 ]
