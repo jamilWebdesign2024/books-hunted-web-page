@@ -1,16 +1,16 @@
 import React from 'react';
 
-import bookimage from '../assets/'
+import bookimage from '../../assets/books2.jpg'
 
 const Banner = () => {
     return (
-        <div>
+        <div className='flex justify-between items-center p-16 w-full mx-auto'>
             <div>
-                <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam nam ut dolor sint aut. Similique quae neque qui. Eum totam unde libero atque? Eligendi ea, iste delectus voluptates rerum ut.</h1>
+                <h1 >Books to freshen up your bookshelf</h1>
                 <button className='btn btn-primary'>test test</button>
             </div>
             <div>
-                <img src={bookimage} alt="" />
+                <img className='' src={bookimage} alt="" />
             </div>
         </div>
     );
